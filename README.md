@@ -24,7 +24,7 @@ The dataset used in this project is the **Mall Customer dataset**, which contain
 
 The K-means clustering algorithm is an unsupervised machine learning algorithm that groups data points into a pre-defined number of clusters, denoted by 'K'. The algorithm works by iteratively assigning each data point to the nearest cluster centroid and then recalculating the centroid of each cluster. The process continues until the cluster assignments no longer change.
 
-The steps followed in this project are:
+The steps to be followed in this project are:
 
 1.  **Data Preprocessing**: The dataset is loaded, and any missing values or inconsistencies are handled.
 2.  **Exploratory Data Analysis (EDA)**: The data is explored to understand the distribution of the features and the relationships between them. This includes creating visualizations such as histograms, scatter plots, and pair plots.
