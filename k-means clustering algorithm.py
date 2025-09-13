@@ -5,7 +5,7 @@ import seaborn as sns
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
-df = pd.read_csv('C:\Users\gagan\Downloads\Mall_Customers.csv')
+df = pd.read_csv(r"C:\Users\gagan\Downloads\Mall_Customers.csv")
 
 X = df[['Annual Income (k$)', 'Spending Score (1-100)']]
 
